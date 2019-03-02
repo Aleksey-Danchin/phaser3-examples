@@ -8,7 +8,7 @@ class MainScene extends Phaser.Scene {
 	}
 
 	preload () {
-		this.load.spritesheet('faces', './faces.png', {
+		this.load.spritesheet('faces', './src/faces.png', {
 			frameWidth: 100,
 			frameHeight: 100
 		})
