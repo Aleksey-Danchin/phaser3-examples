@@ -1,1 +1,1 @@
-import '../projects/tag/src'
+import '../projects/mario'
